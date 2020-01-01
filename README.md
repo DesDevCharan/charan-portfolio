@@ -2,7 +2,7 @@
 
 This site is built using [GatsbyJS](https://www.gatsbyjs.org/). :rocket:
 
-The site is available at https://charanbabukarnam.com.
+The site is available at https://desdevcharan.github.io
 
 ## Development
 
