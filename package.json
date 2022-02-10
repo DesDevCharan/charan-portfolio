@@ -9,7 +9,7 @@
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-sass": "^1.0.26",
     "gatsby-plugin-sitemap": "^1.2.22",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react-favicon": "0.0.14",
     "react-helmet": "^5.2.0",
     "react-youtube": "^7.6.0"
